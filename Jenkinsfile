@@ -6,7 +6,6 @@ pipeline {
                 script{
                     sh """
                       echo "hello, this is build"
-                      htddwy
                     """
                 }
             }
